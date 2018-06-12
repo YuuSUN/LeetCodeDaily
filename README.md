@@ -13,10 +13,13 @@
 - 不可以使用Java内置的BigInt。
 - 建议大家用C或者C++写，这题比较合适给大家做C cpp练手
 - 【可以先做这道练练手】[66. Plus One](https://leetcode.com/problems/plus-one/description/)
+- 思路参考 [浙江大学SCL 高精度计算章-大数](https://wenku.baidu.com/view/a3a9373b31126edb6f1a10af.html?rec_flag=default&sxts=1528822472490) leetcode大部分的题都能在这个小手册里找到思路
+- 附 [楼教主十几年前出的男人八题](https://wenku.baidu.com/view/1de9e435ee06eff9aef80734.html?sxts=1528823190178)
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 - 2018/6/13 [66. Plus One](https://github.com/vivi3nli/LeetCodeDaily/blob/master/66_Plus_One_20180613.py)
+
 ## Group Members 学习小组成员
 
 [Gao Haoxiang](https://github.com/pluto-the-lost/LeetCode)
