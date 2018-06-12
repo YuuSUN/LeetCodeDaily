@@ -1,5 +1,5 @@
 # LeetCodeDaily
-## Problem Set
+## Problem Set 每日一题
 ### 【2018/06/12题目】
 [394. Decode String](https://leetcode.com/problems/decode-string/description/)
 
