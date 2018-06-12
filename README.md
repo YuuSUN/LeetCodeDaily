@@ -1,6 +1,20 @@
 # LeetCodeDaily
+## Problem Set
+### 【2018/06/12题目】
+[394. Decode String](https://leetcode.com/problems/decode-string/description/)
 
-## My recode of leetcoding
+- 题目类型 #simulation
+- 第一天我们来一道摸底题吧，不是太难，也不是two sum那么简单
+
+### 【2018/06/13题目】
+[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+
+- 题目类型 #高精度计算
+- 不可以使用Java内置的BigInt。
+- 建议大家用C或者C++写，这题比较合适给大家做C cpp练手
+- 【可以先做这道练练手】[66. Plus One](https://leetcode.com/problems/plus-one/description/)
+
+## My LeetCoding 我的解答
  2018-6-12 [394 Decode String](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 
 ## Group Members 学习小组成员
