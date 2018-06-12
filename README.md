@@ -1,8 +1,11 @@
 # LeetCodeDaily
-My recode of leetcoding
 
+## My recode of leetcoding
  2018-6-12 [394 Decode String](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
-# 每日Leetcode活动规则
+
+## 学习小组成员
+
+## 每日Leetcode活动规则
 
 最重要的群规：真诚！真诚！真诚！
 
