@@ -9,6 +9,11 @@ Example
 s = "3[a]2[bc]", return "aaabcbc".
 s = "3[a2[c]]", return "accaccacc".
 s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
+
+failed test case:
+s = "3[z]2[2[y]pq4[2[jk]e1[f]]]ef", return "zzzyypqjkjkefjkjkefjkjkefjkjkefyypqjkjkefjkjkefjkjkefjkjkefef"
+s = "100[leetcode]"
+    
 """
 
 class Solution(object):
