@@ -7,6 +7,8 @@
 
 [Gao Haoxiang](https://github.com/pluto-the-lost/LeetCode)
 
+[Chen Wenchang](https://github.com/chenwenchang/Leetcode)
+
 [Li Jiaqi](https://github.com/LiJiaqi96/Play-with-Leetcode)
 
 ## References 参考资料
