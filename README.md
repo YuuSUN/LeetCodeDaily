@@ -30,7 +30,9 @@
 
 ## References 参考资料
 
-[短码之美](https://book.douban.com/subject/5416095/)
+- [短码之美](https://book.douban.com/subject/5416095/)
+- [浙江大学SCL](https://wenku.baidu.com/view/a3a9373b31126edb6f1a10af.html?rec_flag=default&sxts=1528822472490)
+
 
 ## 每日Leetcode活动规则
 
