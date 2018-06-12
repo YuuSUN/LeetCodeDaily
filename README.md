@@ -5,7 +5,7 @@
 
 ## Group Members 学习小组成员
 
-[Gao Haoxiang](hhttps://github.com/pluto-the-lost/LeetCode)
+[Gao Haoxiang](https://github.com/pluto-the-lost/LeetCode)
 
 [Li Jiaqi](https://github.com/LiJiaqi96/Play-with-Leetcode)
 
