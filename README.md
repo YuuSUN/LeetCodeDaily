@@ -14,8 +14,8 @@
 - 建议大家用C或者C++写，这题比较合适给大家做C cpp练手
 - 【可以先做这道练练手】[66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
-## My LeetCoding 我的解答
- 2018-6-12 [394 Decode String](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
+## My LeetCoding Solutions 我的解答
+ 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 
 ## Group Members 学习小组成员
 
