@@ -15,8 +15,8 @@
 - 【可以先做这道练练手】[66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
 ## My LeetCoding Solutions 我的解答
- 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
-
+- 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
+- 2018/6/13 [66. Plus One](https://github.com/vivi3nli/LeetCodeDaily/blob/master/66_Plus_One_20180613.py)
 ## Group Members 学习小组成员
 
 [Gao Haoxiang](https://github.com/pluto-the-lost/LeetCode)
