@@ -3,7 +3,11 @@
 ## My recode of leetcoding
  2018-6-12 [394 Decode String](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 
-## 学习小组成员
+## Group Members 学习小组成员
+
+## References 参考资料
+
+[短码之美](https://book.douban.com/subject/5416095/)
 
 ## 每日Leetcode活动规则
 
