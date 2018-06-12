@@ -5,6 +5,8 @@
 
 ## Group Members 学习小组成员
 
+[Gao Haoxiang](https://github.com/pluto-the-lost)
+
 ## References 参考资料
 
 [短码之美](https://book.douban.com/subject/5416095/)
