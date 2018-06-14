@@ -29,7 +29,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 附 [楼教主十几年前出的男人八题](https://wenku.baidu.com/view/1de9e435ee06eff9aef80734.html?sxts=1528823190178)
 
 ### 【2018/6/14题目】
-[15.3Sum](https://leetcode.com/problems/3sum/description/)
+[15. 3Sum](https://leetcode.com/problems/3sum/description/)
 
 - 我们来一道经典面试题threesome吧
 
