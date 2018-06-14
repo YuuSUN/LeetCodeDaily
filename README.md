@@ -3,7 +3,7 @@
 - [Problem Set](https://github.com/vivi3nli/LeetCodeDaily#problem-set-%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98)
 
 Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun  
---- | --- | --- | --- | --- | --- | --- | ---
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
