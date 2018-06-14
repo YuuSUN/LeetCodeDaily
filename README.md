@@ -32,6 +32,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 
 - 我们来一道经典面试题threesome吧
+- python中list对象的存储结构采用的是线性表，因此其查询复杂度为O(n),而dict对象的存储结构采用的是散列表(hash表)，其在最优情况下查询复杂度为O(1)。
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
