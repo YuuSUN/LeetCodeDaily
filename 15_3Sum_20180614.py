@@ -21,7 +21,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        output = []
+        output = set()
         nums = sorted(nums)
         if len(nums) < 3:
             return []
@@ -35,7 +35,7 @@ class Solution(object):
                 continue
             else:
                 break
-        print(zero)
+#        print(zero)
         for i in range(len(nums)):
             if i > zero:
                 break
@@ -49,13 +49,10 @@ class Solution(object):
                 elif nums[i] + nums[j] + nums[k] < 0:
                     j = j + 1
                 else:
-                    temp = sorted([nums[i], nums[j], nums[k]])
-                    if temp not in output:
-                        output.append(temp)
-                        #how to remove duplicate in a list of lists
+                    output.add((nums[i], nums[j], nums[k]))
                     k = k - 1
                     j = j + 1
-        return output
+        return list(output)
 
 nums = [-1, 0, 1, 2, -1, -4]
 print(Solution().threeSum(nums))
