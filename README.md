@@ -36,6 +36,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 - 2018/6/13 [66. Plus One Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/66_Plus_One_20180613.py) and [43. Multiply Strings Solutions](https://github.com/vivi3nli/LeetCodeDaily/blob/master/43_Multiply_Strings_20180613.py)
+- 2018/6/14 [15. 3Sum Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/15_3Sum_20180614.py)
 
 ## Group Members 学习小组成员
 
