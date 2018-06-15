@@ -34,6 +34,8 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 ### 【2018/06/15题目】[51. N-Queens](https://leetcode-cn.com/problems/n-queens/description/)
 
 - 题目类型 #N皇后 
+- 在建立棋盘的时候用乘法可能会导致棋牌某一列均相同，因为在python中复杂类型是浅拷贝、简单类型是深拷贝
+- 在棋盘中确认是否重复时，从左上到右下的一斜行坐标差值相同，右上到左下的一斜行坐标和相同，所以可以用这一数值统一标记，无需单个确认。（在非常大的棋盘时可能会加快速度？）
 
 
 ## My LeetCoding Solutions 我的解答
