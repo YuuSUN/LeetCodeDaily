@@ -4,7 +4,7 @@
 
 Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun  
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)|[51]()
+24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)|[51](https://github.com/vivi3nli/LeetCodeDaily#20180615%E9%A2%98%E7%9B%AE51-n-queens)
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
 - [Group Members](https://github.com/vivi3nli/LeetCodeDaily#group-members-%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84%E6%88%90%E5%91%98)
@@ -40,7 +40,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 - 2018/6/13 [66. Plus One Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/66_Plus_One_20180613.py) and [43. Multiply Strings Solutions](https://github.com/vivi3nli/LeetCodeDaily/blob/master/43_Multiply_Strings_20180613.py)
 - 2018/6/14 [15. 3Sum Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/15_3Sum_20180614.py)
-- 2018/6/15 [51. N-Queens Solution]()
+- 2018/6/15 [51. N-Queens Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/51_N-Queens_20180615.py)
 
 ## Group Members 学习小组成员
 
