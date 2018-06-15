@@ -4,7 +4,7 @@
 
 Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun  
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)|[51](https://github.com/vivi3nli/LeetCodeDaily#20180615%E9%A2%98%E7%9B%AE51-n-queens)
+24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)|[51](https://github.com/vivi3nli/LeetCodeDaily#20180615%E9%A2%98%E7%9B%AE51-n-queens)|[1]()
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
 - [Group Members](https://github.com/vivi3nli/LeetCodeDaily#group-members-%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84%E6%88%90%E5%91%98)
@@ -37,7 +37,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 在建立棋盘的时候用乘法可能会导致棋牌某一列均相同，因为在python中复杂类型是浅拷贝、简单类型是深拷贝
 - 在棋盘中确认是否重复时，从左上到右下的一斜行坐标差值相同，右上到左下的一斜行坐标和相同，所以可以用这一数值统一标记，无需单个确认。（在非常大的棋盘时可能会加快速度？）
 
-### 【2018.06.16】[2Sum](https://leetcode.com/problems/two-sum/description/)
+### 【2018.06.16】[1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
 - 附加要求：虽然比3sum简单，但请大家实现尽可能快的版本，最快的人将会获得一笔bonus奖金（数额保密）
 
