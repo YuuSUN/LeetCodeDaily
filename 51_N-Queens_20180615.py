@@ -13,7 +13,7 @@ class Solution(object):
         :rtype: List[List[str]]
         """
         self.n = n
-        self.board = [["."] * n] * n
+        self.board = [['.' for j in range(n)] for i in range(n)]
         self.output = []
         self.my_queens(0)
         return self.output
