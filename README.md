@@ -12,14 +12,12 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - [Rules](https://github.com/vivi3nli/LeetCodeDaily#%E6%AF%8F%E6%97%A5leetcode%E6%B4%BB%E5%8A%A8%E8%A7%84%E5%88%99)
 
 ## Problem Set 每日一题
-### 【2018/06/12题目】
-[394. Decode String](https://leetcode.com/problems/decode-string/description/)
+### 【2018/06/12题目】[394. Decode String](https://leetcode.com/problems/decode-string/description/)
 
 - 题目类型 #simulation
 - 第一天我们来一道摸底题吧，不是太难，也不是two sum那么简单
 
-### 【2018/06/13题目】
-[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+### 【2018/06/13题目】[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 
 - 题目类型 #高精度计算
 - 不可以使用Java内置的BigInt。
@@ -28,11 +26,15 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 思路参考 [浙江大学SCL 高精度计算章-大数](https://wenku.baidu.com/view/a3a9373b31126edb6f1a10af.html?rec_flag=default&sxts=1528822472490) leetcode大部分的题都能在这个小手册里找到思路
 - 附 [楼教主十几年前出的男人八题](https://wenku.baidu.com/view/1de9e435ee06eff9aef80734.html?sxts=1528823190178)
 
-### 【2018/6/14题目】
-[15. 3Sum](https://leetcode.com/problems/3sum/description/)
+### 【2018/6/14题目】[15. 3Sum](https://leetcode.com/problems/3sum/description/)
 
 - 我们来一道经典面试题threesome吧
 - python中list对象的存储结构采用的是线性表，因此其查询复杂度为O(n),而dict对象的存储结构采用的是散列表(hash表)，其在最优情况下查询复杂度为O(1)。
+
+### 【2018/06/15题目】[51. N-Queens](https://leetcode-cn.com/problems/n-queens/description/)
+
+- 题目类型 #N皇后 
+
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
