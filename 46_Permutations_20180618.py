@@ -17,12 +17,10 @@ class Solution(object):
         else:
             output = []
             for i, itemi in enumerate(nums):
-                child = nums[:i] + nums[i+1:]
-                p1 = self.permute(child)
+                p1 = self.permute(nums[:i] + nums[i+1:])
                 for j, itemj in enumerate(p1):
-                    temp = itemj
-                    temp.append(itemi)
-                    output.append(temp)
+                    itemj.append(itemi)
+                    output.append(itemj)
             return output
 
 
