@@ -41,6 +41,10 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 
 - 附加要求：虽然比3sum简单，但请大家实现尽可能快的版本，最快的人将会获得一笔bonus奖金（数额保密）
 
+### 【20180618】[46. Permutations](https://leetcode.com/problems/permutations/description/)
+
+- 全排列
+
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
