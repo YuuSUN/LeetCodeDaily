@@ -12,25 +12,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        self.output = []
-        self.len = len(nums)
-        self.recur(nums)
-        no_rep = []
-        [no_rep.append(i) for i in self.output if not i in no_rep]
-        return no_rep
-    
-    def recur(self, nums):
-        for i in range(len(nums)):
-            if len(nums) > 2:
-                p_1 = self.recur(nums[:i] + nums[i+1:])
-                for j in range(len(p_1)):
-                   p_1[j].insert(0, nums[i])
-            elif len(nums) == 2:
-                p_1 = [nums,[nums[1],nums[0]]]
-            else:
-                p_1 = [nums]
-            if len(nums) == self.len:
-                self.output += p_1
-        return p_1
+        if len(nums) == 1:
+            return([nums])
+        else:
+            output = []
+            for i, itemi in enumerate(nums):
+                child = nums[:i] + nums[i+1:]
+                p1 = self.permute(child)
+                for j, itemj in enumerate(p1):
+                    temp = itemj
+                    temp.append(itemi)
+                    output.append(temp)
+            return output
+
 
 print(Solution().permute([1,2,3,4]))
