@@ -5,7 +5,7 @@
 Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun  
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)|[51](https://github.com/vivi3nli/LeetCodeDaily#20180615%E9%A2%98%E7%9B%AE51-n-queens)|[1](https://github.com/vivi3nli/LeetCodeDaily#201806161-two-sum)||
-25|[46](https://github.com/vivi3nli/LeetCodeDaily#2018061846-permutations)|[21](https://github.com/vivi3nli/LeetCodeDaily#2018061921-merge-two-sorted-lists)|[172](https://github.com/vivi3nli/LeetCodeDaily#20180620172-factorial-trailing-zeroes)
+25|[46](https://github.com/vivi3nli/LeetCodeDaily#2018061846-permutations)|[21](https://github.com/vivi3nli/LeetCodeDaily#2018061921-merge-two-sorted-lists)|[172](https://github.com/vivi3nli/LeetCodeDaily#20180620172-factorial-trailing-zeroes)|[223]()
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
 - [Group Members](https://github.com/vivi3nli/LeetCodeDaily#group-members-%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84%E6%88%90%E5%91%98)
@@ -59,7 +59,6 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 【2018/06/21】[](https://leetcode.com/problems/rectangle-area/description/)
 
 - 类型#简单计算几何 
-- 
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
