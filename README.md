@@ -32,7 +32,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 我们来一道经典面试题threesome吧
 - python中list对象的存储结构采用的是线性表，因此其查询复杂度为O(n),而dict对象的存储结构采用的是散列表(hash表)，其在最优情况下查询复杂度为O(1)。
 
-### 【2018/06/15题目】[51. N-Queens](https://leetcode-cn.com/problems/n-queens/description/)
+### 【2018/06/15题目】[51. N-Queens](https://leetcode.com/problems/n-queens/description/)
 
 - 题目类型 #N皇后 
 - 在建立棋盘的时候用乘法可能会导致棋牌某一列均相同，因为在python中复杂类型是浅拷贝、简单类型是深拷贝
@@ -70,7 +70,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 2018/6/18 [46. Permutations Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/46_Permutations_20180618.py)
 - 2018/6/19 [21. Merge Two Sorted Lists Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/21_Merge_Two_Sorted_List_20180620.py)
 - 2018/6/20 [172. Factorial Trailing Zeroes Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/172_Factorial_Trailing_Zeroes_20180620.py)
-- 2018/6/21 [223. Rectangle Area Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/223_Rectangle_Area_20180621.py) and [836. Rectangle Overlap Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/836_Rectangle_Overlap.py)
+- 2018/6/21 [223. Rectangle Area Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/223_Rectangle_Area_20180621.py) and [836. Rectangle Overlap Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/836_Rectangle_Overlap.py) and reviewed []() []()
 
 ## Group Members 学习小组成员
 
