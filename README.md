@@ -5,7 +5,7 @@
 Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun  
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)|[51](https://github.com/vivi3nli/LeetCodeDaily#20180615%E9%A2%98%E7%9B%AE51-n-queens)|[1](https://github.com/vivi3nli/LeetCodeDaily#201806161-two-sum)||
-25|[46](https://github.com/vivi3nli/LeetCodeDaily#2018061846-permutations)
+25|[46](https://github.com/vivi3nli/LeetCodeDaily#2018061846-permutations)|[21]()|
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
 - [Group Members](https://github.com/vivi3nli/LeetCodeDaily#group-members-%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84%E6%88%90%E5%91%98)
@@ -47,12 +47,12 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 全排列
 - 全排列那个可以就用回溯做，递归n层，每层在前面诸层中未选择的数字集合中选择candidate，选好了就进入下一层。各层share一个全局的长度为n的布尔数组，来标记每个数字是否被使用
 
-### 【2018/06/19】[]https://leetcode-cn.com/problems/merge-two-sorted-lists/description/
+### 【2018/06/19】[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 - 类型：#合并链表
 - 大二作业题，不能更水了
 
-【2018/06/20】https://leetcode.com/problems/factorial-trailing-zeroes/description/
+### 【2018/06/20】[172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)
 
 - 阶乘最末0
 
@@ -64,6 +64,8 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 2018/6/15 [51. N-Queens Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/51_N-Queens_20180615.py)
 - 2018/6/16 [1. Two Sum Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/1_Two_Sum_20180616.py)
 - 2018/6/18 [46. Permutations Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/46_Permutations_20180618.py)
+- 2018/6/19 []()
+- 2018/6/20 []()
 
 ## Group Members 学习小组成员
 
