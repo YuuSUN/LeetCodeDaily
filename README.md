@@ -74,6 +74,7 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 2018/6/19 [21. Merge Two Sorted Lists Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/21_Merge_Two_Sorted_List_20180620.py)
 - 2018/6/20 [172. Factorial Trailing Zeroes Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/172_Factorial_Trailing_Zeroes_20180620.py)
 - 2018/6/21 [223. Rectangle Area Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/223_Rectangle_Area_20180621.py) and [836. Rectangle Overlap Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/836_Rectangle_Overlap.py) and reviewed [51. N-Queens Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/51_N-Queens_20180621.py) [52. N-Queens II Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/52_N-Queens_II_20180621.py)
+- 2018/6/22 [136. Single Number Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/136_Single_Number_20180622.py)
 
 ## Group Members 学习小组成员
 
