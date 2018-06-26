@@ -5,7 +5,9 @@
 Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun  
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)|[51](https://github.com/vivi3nli/LeetCodeDaily#20180615%E9%A2%98%E7%9B%AE51-n-queens)|[1](https://github.com/vivi3nli/LeetCodeDaily#201806161-two-sum)||
-25|[46](https://github.com/vivi3nli/LeetCodeDaily#2018061846-permutations)|[21](https://github.com/vivi3nli/LeetCodeDaily#2018061921-merge-two-sorted-lists)|[172](https://github.com/vivi3nli/LeetCodeDaily#20180620172-factorial-trailing-zeroes)|[223](https://github.com/vivi3nli/LeetCodeDaily#20180621223-rectangle-area)|[136](https://github.com/vivi3nli/LeetCodeDaily#2018-06-22136-single-number)
+25|[46](https://github.com/vivi3nli/LeetCodeDaily#2018061846-permutations)|[21](https://github.com/vivi3nli/LeetCodeDaily#2018061921-merge-two-sorted-lists)|[172](https://github.com/vivi3nli/LeetCodeDaily#20180620172-factorial-trailing-zeroes)|[223](https://github.com/vivi3nli/LeetCodeDaily#20180621223-rectangle-area)|[136](https://github.com/vivi3nli/LeetCodeDaily#2018-06-22136-single-number)|[300](https://github.com/vivi3nli/LeetCodeDaily#2018-06-23300-longest-increasing-subsequence)||
+26|[19](https://github.com/vivi3nli/LeetCodeDaily#2018-06-2519-remove-nth-node-from-end-of-list)|[78](https://github.com/vivi3nli/LeetCodeDaily#2018-06-2678-subsets)|[335](https://github.com/vivi3nli/LeetCodeDaily#2018-06-27335-self-crossing)
+
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
 - [Group Members](https://github.com/vivi3nli/LeetCodeDaily#group-members-%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84%E6%88%90%E5%91%98)
@@ -105,6 +107,8 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 2018/6/20 [172. Factorial Trailing Zeroes Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/172_Factorial_Trailing_Zeroes_20180620.py)
 - 2018/6/21 [223. Rectangle Area Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/223_Rectangle_Area_20180621.py) and [836. Rectangle Overlap Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/836_Rectangle_Overlap.py) and reviewed [51. N-Queens Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/51_N-Queens_20180621.py) [52. N-Queens II Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/52_N-Queens_II_20180621.py)
 - 2018/6/22 [136. Single Number Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/136_Single_Number_20180622.py)
+- 2018-6-26 [78. Subsets Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/78_Subsets_20180626.py)
+- 2018-6-27 [335. Self Crossing Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/335_Self_Crossing_20180627.py)
 
 ## Group Members 学习小组成员
 
