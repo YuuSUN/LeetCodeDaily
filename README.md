@@ -70,11 +70,29 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 ### 【2018-06-25】[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 
 - type #LinkedList
+- 希望大家能实现一趟扫描就完成任务的版本，不要扫完了再倒着找
+- 俩指针，一个指针比另一个指针提前跑n位，每一步俩指针各动一步，前面的指针碰到尾巴的时候回，落在后面的指针就自动落在倒数第n个上
+- 你用单指针把它一个个读下来，存到一个大小为n的队列里，不就行了，但是耗空间多
+- 双指针是O(1)空间，单指针存队列是O(n)空间
+- 双指针的另一个典型应用是找链表中点
+- 链式存储不允许随机访问，如果n特别大，又是在单片机上，哪来的那么大内存放数据呢
+- 我强调下一下，这题是不能不用双指针的，如果面试中没写出双指针的代码，面试官会问你有没有优化方法要求你想想再写的。
+- 如果你在一台单片机上编程，内存往往非常小，不用双指针，一个数组只能存几千个数字，就保存不下这个问题了。这种问题的考点就在这里，面试官就是想问这个。你们要触碰他们的点。
+- 这题一定一定一定！要用！双！指！针！[睡]
+- 程序员，尤其是出面试题的程序员，就是一群这么喜欢抠小聪明的人，这种细节答出来了，他们就会感觉是对的人，要是答不出来，他们就会有连这都不知道的一种感觉
+- 北京很多公司的面试题，其实是外包给一些acm选手出的，出一套几千块
+- 刷LeetCode其实跟刷五三是一回事，都是过拟合
 
 ### 【2018-06-26】[78. Subsets](https://leetcode.com/problems/subsets/description/) 
 
 - type#backtrack 
 - 明天做这道吧，用不用递归都行
+
+### 【2018-06-27】[335. Self Crossing](https://leetcode.com/problems/self-crossing/description/)
+
+- type#计算几何 
+- 这题的关键在于判断是否相交，可能有些难度
+- 这是我们出的第一道标记为Hard题
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
