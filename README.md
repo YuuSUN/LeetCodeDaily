@@ -96,6 +96,17 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 - 这题的关键在于判断是否相交，可能有些难度
 - 这是我们出的第一道标记为Hard题
 
+### 【20160628】[587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/description)
+
+- type # computational geometry  
+https://leetcode.com/problems/erect-the-fence/description
+- 希望大家做出来，不要diserect
+
+### 【2018-06=29】[72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+
+- type  #dynammic programming  #edit distance 
+
+
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 - 2018/6/13 [66. Plus One Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/66_Plus_One_20180613.py) and [43. Multiply Strings Solutions](https://github.com/vivi3nli/LeetCodeDaily/blob/master/43_Multiply_Strings_20180613.py)
