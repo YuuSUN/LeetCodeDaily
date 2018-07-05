@@ -107,6 +107,12 @@ https://leetcode.com/problems/erect-the-fence/description
 - type  #dynammic programming  #edit distance 
 
 
+### 【20180705】[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+
+- type#数学题 动规
+- 提示，可以手算几个，然后上oeis上面查
+-   
+
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 - 2018/6/13 [66. Plus One Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/66_Plus_One_20180613.py) and [43. Multiply Strings Solutions](https://github.com/vivi3nli/LeetCodeDaily/blob/master/43_Multiply_Strings_20180613.py)
