@@ -105,13 +105,37 @@ https://leetcode.com/problems/erect-the-fence/description
 ### 【2018-06=29】[72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 
 - type  #dynammic programming  #edit distance 
+- 不管今天写不写得完，请务必学会这道题，这不仅是生物信息学的基础题，而且是大家的第一道动态规划题，现在面试还是挺流行考动态规划的。动态规划题目中，这道可以算是最简单了
 
+### 【20180630】[18. 4Sum](https://leetcode.com/problems/4sum/description/)
+
+### 【20180702】[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+
+- type #动态规划  
+- 最大子序列问题也毫无疑问是个动规问题，网上的解析非常多。我就不多说了，建议大家做动规题时候自己多想想，不要直接看答案，这样比较锻炼大脑。
+- vote: 11-20这10天用来马拉松，出15道题，10天内刷完即可，题目偏水，个别题难点，在7号公布。你们同不同意？如果觉得时间不好或者数目不好，投不同意。否决后另案解决
+
+### [2018-07-03] [120. Triangle](https://leetcode.com/problems/triangle/description/)
+
+- type #DP 今天我们再来一道入门动规。
+- 关于动态规划，给大家推荐一篇[入门文章](https://www.cnblogs.com/SDJL/archive/2008/08/22/1274312.html)很久很久以前的一篇科普老文了，初中生都能看懂，讲得比较有趣
+- 以前在cpp我们都是用88888888或者0x3f3f3f3f来初始化,因为大概是int最大值的一半，这样两个这样的“无穷大“加在一起仍然不会溢出
+
+### 【20180704】[100. Same Tree](https://leetcode.com/problems/same-tree/description/) 
 
 ### 【20180705】[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 
 - type#数学题 动规
-- 提示，可以手算几个，然后上oeis上面查
--   
+- 这一类求解F(n)=aF(n-1)+bF(n-2)+c的问题，叫做
+二阶线性非齐次递推关系，闭式解法可以再《具体数学》这本小神书里面找到
+- 提示，可以手算几个，然后上oeis上面查:[oeis](https://oeis.org/)是数列的数据库，支持数列的搜索，专业的。有acm选手作弊的的，就在上厕所的时候偷偷用oeis查手算的数据。当然平时打在线比赛的时候，oeis还是可以光明正大地用的
+- 这个数据库就是内部存了海量的各种各样的数列，它把它的各种匹配的都给你，而且是局部比对
+- 你随便输一些数字，都会发现是一个意想不到的数列
+
+### 【20180706】[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)  
+
+- type #可能比较麻烦
+
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
