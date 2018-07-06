@@ -6,7 +6,9 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 24  | | [394](https://github.com/vivi3nli/LeetCodeDaily#20180612%E9%A2%98%E7%9B%AE) | [43](https://github.com/vivi3nli/LeetCodeDaily#20180613%E9%A2%98%E7%9B%AE)|[15](https://github.com/vivi3nli/LeetCodeDaily#2018614%E9%A2%98%E7%9B%AE)|[51](https://github.com/vivi3nli/LeetCodeDaily#20180615%E9%A2%98%E7%9B%AE51-n-queens)|[1](https://github.com/vivi3nli/LeetCodeDaily#201806161-two-sum)||
 25|[46](https://github.com/vivi3nli/LeetCodeDaily#2018061846-permutations)|[21](https://github.com/vivi3nli/LeetCodeDaily#2018061921-merge-two-sorted-lists)|[172](https://github.com/vivi3nli/LeetCodeDaily#20180620172-factorial-trailing-zeroes)|[223](https://github.com/vivi3nli/LeetCodeDaily#20180621223-rectangle-area)|[136](https://github.com/vivi3nli/LeetCodeDaily#2018-06-22136-single-number)|[300](https://github.com/vivi3nli/LeetCodeDaily#2018-06-23300-longest-increasing-subsequence)||
-26|[19](https://github.com/vivi3nli/LeetCodeDaily#2018-06-2519-remove-nth-node-from-end-of-list)|[78](https://github.com/vivi3nli/LeetCodeDaily#2018-06-2678-subsets)|[335](https://github.com/vivi3nli/LeetCodeDaily#2018-06-27335-self-crossing)
+26|[19](https://github.com/vivi3nli/LeetCodeDaily#2018-06-2519-remove-nth-node-from-end-of-list)|[78](https://github.com/vivi3nli/LeetCodeDaily#2018-06-2678-subsets)|[335](https://github.com/vivi3nli/LeetCodeDaily#2018-06-27335-self-crossing)|[587](https://github.com/vivi3nli/LeetCodeDaily#20160628587-erect-the-fence)|[72](https://github.com/vivi3nli/LeetCodeDaily#2018-062972-edit-distance)|[18](https://github.com/vivi3nli/LeetCodeDaily#2018063018-4sum)|
+27|[53](https://github.com/vivi3nli/LeetCodeDaily#2018070253-maximum-subarray)|[120](https://github.com/vivi3nli/LeetCodeDaily#2018-07-03-120-triangle)|[100](https://github.com/vivi3nli/LeetCodeDaily#20180704100-same-tree)|[70](https://github.com/vivi3nli/LeetCodeDaily#2018070570-climbing-stairs)|[93](https://github.com/vivi3nli/LeetCodeDaily#2018070693-restore-ip-addresses)|[]()|
+28|
 
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
@@ -136,6 +138,52 @@ https://leetcode.com/problems/erect-the-fence/description
 
 - type #可能比较麻烦
 
+### 【20180710-20180720】Hackathon
+
+1. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+
+2. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+
+3. [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+
+4. [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) 
+ - 注意其Note，想一想如何不用额外的空间（in-place）来完成这个任务
+
+5. [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
+ - 可以参考前面发给大家的matrix67写的位运算教程
+
+6. [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)Do it smartly. 去年的本科数据结构课期中考试题
+
+7. [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
+
+8. [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+ - easy problem, especially when using python.
+ - Finish it and consult the answer, then appreciate how brief it can be!
+
+9. [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)
+ - Write this and you are on the way to D2R
+
+10. [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) & [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+ - 同态、同构、同伦、同调……，好在这个isomorphism问题还是特别简单的
+ - 242跟205两题都做出来算一道题（我偏要这么算）
+
+11. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+ - Write this and you are on the way to D2R too.
+ - 实际上，在一个连续信号中识别峰并非一个trivial的问题，让我们通过做这道题引起大家的思考
+
+12. [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
+ - 老题，几乎出现在每一本编程入门书的“循环”部分
+
+13. [274. H-Index](https://leetcode.com/problems/h-index/description/)
+ - May we all have high h-indices
+
+14. [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+ - 面试时候面试官都想听到二分法这个答案，刷过题的一般都这么做
+ - 前几年有个没刷过题的中国人告诉洋面试官可以用泰勒展开，把面试官听得一愣一愣的。
+
+15. [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+ - 传说中的快速幂算法
+
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
@@ -150,6 +198,8 @@ https://leetcode.com/problems/erect-the-fence/description
 - 2018/6/22 [136. Single Number Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/136_Single_Number_20180622.py)
 - 2018-6-26 [78. Subsets Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/78_Subsets_20180626.py)
 - 2018-6-27 [335. Self Crossing Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/335_Self_Crossing_20180627.py)
+- 2018-7-5 [70. Climbing Stairs Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/70_Climbing_Stairs_20180705)
+- 2018-7-6 [93. Restore IP Addresses Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/93_Restore_IP_Addresses_20180706.py)
 
 ## Group Members 学习小组成员
 
