@@ -140,6 +140,10 @@ https://leetcode.com/problems/erect-the-fence/description
 
 - type #可能比较麻烦
 
+### 【20180707】[292. Nim Game](https://leetcode.com/problems/nim-game/description/)
+
+- type #数学题 博弈论 
+
 ### 【20180710-20180720】Hackathon
 
 1. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
