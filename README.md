@@ -206,6 +206,9 @@ https://leetcode.com/problems/erect-the-fence/description
 - 2018-6-27 [335. Self Crossing Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/335_Self_Crossing_20180627.py)
 - 2018-7-5 [70. Climbing Stairs Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/70_Climbing_Stairs_20180705)
 - 2018-7-6 [93. Restore IP Addresses Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/93_Restore_IP_Addresses_20180706.py)
+- 2018-7-7 [7. Reverse Integer Solution]() [13. Roman to Integer Solution]() [67. Add Binary Solution]() [189. Rotate Array Solution]() 
+- 2018-7-8 [191. Number of 1 Bits Solution]()  [160. Intersection of Two Linked Lists Solution]() [169. Majority Element Solution]() [151. Reverse Words in a String Solution]()
+
 
 ## Group Members 学习小组成员
 
