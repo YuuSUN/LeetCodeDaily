@@ -206,8 +206,8 @@ https://leetcode.com/problems/erect-the-fence/description
 - 2018-6-27 [335. Self Crossing Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/335_Self_Crossing_20180627.py)
 - 2018-7-5 [70. Climbing Stairs Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/70_Climbing_Stairs_20180705)
 - 2018-7-6 [93. Restore IP Addresses Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/93_Restore_IP_Addresses_20180706.py)
-- 2018-7-7 [7. Reverse Integer Solution]() [13. Roman to Integer Solution]() [67. Add Binary Solution]() [189. Rotate Array Solution]() 
-- 2018-7-8 [191. Number of 1 Bits Solution]()  [160. Intersection of Two Linked Lists Solution]() [169. Majority Element Solution]() [151. Reverse Words in a String Solution]()
+- 2018-7-7 [7. Reverse Integer Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/7_Reverse_Interger_20180707.py) [13. Roman to Integer Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/13_Roman_to_Integer_20180707.py) [67. Add Binary Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/67_Add_Binary_20180707.py) [189. Rotate Array Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/198_Rotate_Array_20180707.py) 
+- 2018-7-8 [191. Number of 1 Bits Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/191_Number_of_1_Bits_20180708.py)  [160. Intersection of Two Linked Lists Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/160_Intersection_of_Two_Linked_Lists_20180708.py) [169. Majority Element Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/169_Majority_Element_20180708.py) [151. Reverse Words in a String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/151_Reverse_Words_in_a_String_20180708.py)
 
 
 ## Group Members 学习小组成员

@@ -19,8 +19,7 @@ class Solution(object):
             else:
                 d[i] += 1
         for n in d.keys():
-            print(n)
-            if d[n] > len(nums):
+            if d[n] > len(nums) / 2:
                 return n
             
 Solution().majorityElement([3,2,3])
