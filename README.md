@@ -191,6 +191,53 @@ https://leetcode.com/problems/erect-the-fence/description
  - 传说中的快速幂算法
 
 
+16）236
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+经典的LCA问题
+
+17）230
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+Tree again
+
+18）263
+https://leetcode.com/problems/ugly-number/description/
+大家还记不记得很久以前163是中国互联网巨头的时候，还有个大公司叫263
+
+
+19）289
+https://leetcode.com/problems/game-of-life/description/
+这个挺好玩的，matlab上有一个写好的
+
+20）290
+https://leetcode.com/problems/word-pattern/description/
+pattern match是生物信息永恒的话题
+
+
+21）371
+https://leetcode.com/problems/sum-of-two-integers/description/
+趣题，以前我也没想过这个事情
+
+
+22）387
+https://leetcode.com/problems/first-unique-character-in-a-string/description/
+这一题的扩展，find unique k-mer，有一个非常棒的解法
+https://codegolf.stackexchange.com/questions/45257/counting-k-mers
+见第一个答案
+
+
+23）447
+https://leetcode.com/problems/number-of-boomerangs/description/
+水
+
+
+24） 443
+https://leetcode.com/problems/string-compression/description/
+注意in-place和O(1)的两个要求
+
+25）403
+https://leetcode.com/problems/frog-jump/description/
+倒推的思想或许有助于解题
+
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
 - 2018/6/13 [66. Plus One Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/66_Plus_One_20180613.py) and [43. Multiply Strings Solutions](https://github.com/vivi3nli/LeetCodeDaily/blob/master/43_Multiply_Strings_20180613.py)
@@ -208,7 +255,7 @@ https://leetcode.com/problems/erect-the-fence/description
 - 2018-7-6 [93. Restore IP Addresses Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/93_Restore_IP_Addresses_20180706.py)
 - 2018-7-7 [7. Reverse Integer Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/7_Reverse_Interger_20180707.py) [13. Roman to Integer Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/13_Roman_to_Integer_20180707.py) [67. Add Binary Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/67_Add_Binary_20180707.py) [189. Rotate Array Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/198_Rotate_Array_20180707.py) 
 - 2018-7-8 [191. Number of 1 Bits Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/191_Number_of_1_Bits_20180708.py)  [160. Intersection of Two Linked Lists Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/160_Intersection_of_Two_Linked_Lists_20180708.py) [169. Majority Element Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/169_Majority_Element_20180708.py) [151. Reverse Words in a String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/151_Reverse_Words_in_a_String_20180708.py)
-- 2018-7-14 [187. Repeated DNA Sequences Solution]() []
+- 2018-7-14 [187. Repeated DNA Sequences Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/187_Repeated_DNA_Sequences_20180714.py) 
 
 
 ## Group Members 学习小组成员
