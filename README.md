@@ -10,7 +10,8 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 27|[53](https://github.com/vivi3nli/LeetCodeDaily#2018070253-maximum-subarray)|[120](https://github.com/vivi3nli/LeetCodeDaily#2018-07-03-120-triangle)|[100](https://github.com/vivi3nli/LeetCodeDaily#20180704100-same-tree)|[70](https://github.com/vivi3nli/LeetCodeDaily#2018070570-climbing-stairs)|[93](https://github.com/vivi3nli/LeetCodeDaily#2018070693-restore-ip-addresses)|[]()|
 28|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)||
 29|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|
-30|
+30|||||121|
+31|
 
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
@@ -237,6 +238,12 @@ https://leetcode.com/problems/string-compression/description/
 25）403
 https://leetcode.com/problems/frog-jump/description/
 倒推的思想或许有助于解题
+
+### 【2018-07-27】[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+
+- type #那我们做题就也做这道股票吧  #DP  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
