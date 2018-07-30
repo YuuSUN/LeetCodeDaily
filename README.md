@@ -244,6 +244,11 @@ https://leetcode.com/problems/frog-jump/description/
 
 - type #那我们做题就也做这道股票吧  #DP  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
+### 2018-07-28 [](https://leetcode.com/problems/maximal-rectangle/description/)  
+
+- type #再来一个dp 
+
+### 【2018-07-30】[](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
