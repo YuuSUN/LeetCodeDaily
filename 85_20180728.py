@@ -20,7 +20,7 @@ class Solution:
                     hist[i] = 0
                 else:
                     hist[i] += 1
-            print(hist)
+#            print(hist)
             s = max(s, self.histmax(hist))
         return s
         
