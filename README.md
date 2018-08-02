@@ -10,8 +10,8 @@ Week| Mon | Tue | Wed | Thu | Fri | Sat | Sun
 27|[53](https://github.com/vivi3nli/LeetCodeDaily#2018070253-maximum-subarray)|[120](https://github.com/vivi3nli/LeetCodeDaily#2018-07-03-120-triangle)|[100](https://github.com/vivi3nli/LeetCodeDaily#20180704100-same-tree)|[70](https://github.com/vivi3nli/LeetCodeDaily#2018070570-climbing-stairs)|[93](https://github.com/vivi3nli/LeetCodeDaily#2018070693-restore-ip-addresses)|[]()|
 28|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)||
 29|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|[H](https://github.com/vivi3nli/LeetCodeDaily#20180710-20180720hackathon)|
-30|||||121|
-31|
+30|||||121|85
+31|345|37|733|749|
 
 
 - [My Solutions](https://github.com/vivi3nli/LeetCodeDaily#my-leetcoding-solutions-%E6%88%91%E7%9A%84%E8%A7%A3%E7%AD%94)
@@ -192,9 +192,9 @@ https://leetcode.com/problems/erect-the-fence/description
  - 传说中的快速幂算法
 
 
-16）236
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
-经典的LCA问题
+16. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+
+- 经典的LCA问题
 
 17）230
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
@@ -257,6 +257,14 @@ https://leetcode.com/problems/frog-jump/description/
 ### 【20180801】[733. Flood Fill](https://leetcode.com/problems/flood-fill/description/) 
 
 - y #今天再放道水 
+
+### 【2018-08-02】[749. Contain Virus](https://leetcode.com/problems/contain-virus/description/)
+
+- type #DFS/BFS  
+
+
+
+
 
 #解个数独消消暑吧
 
