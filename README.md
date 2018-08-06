@@ -262,8 +262,13 @@ https://leetcode.com/problems/frog-jump/description/
 
 - type #DFS/BFS  
 
+### 【2018-8-3】#拓扑排序 [207. Course Schedule](https://leetcode-cn.com/problems/course-schedule/description/)
 
+### 【2018-08-04】#栈或者回溯模拟一下 [150. Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/)
 
+### [2018-08-06] #判断二分图 [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+
+- 去年期末考试出的题，但是没被采纳
 
 
 #解个数独消消暑吧
