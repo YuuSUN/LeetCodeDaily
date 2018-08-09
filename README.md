@@ -271,6 +271,12 @@ https://leetcode.com/problems/frog-jump/description/
 - 去年期末考试出的题，但是没被采纳
 
 
+### 【2018-08-07】#看来得降点难度   [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
+
+- [My solution 204]()
+- [Reference link with explanation](https://leetcode.com/problems/count-primes/discuss/153528/Python3-99-112-ms-Explained:-The-Sieve-of-Eratosthenes-with-optimizations)
+- The Algorithm [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+
 #解个数独消消暑吧
 
 ## My LeetCoding Solutions 我的解答
@@ -291,6 +297,7 @@ https://leetcode.com/problems/frog-jump/description/
 - 2018-7-7 [7. Reverse Integer Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/7_Reverse_Interger_20180707.py) [13. Roman to Integer Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/13_Roman_to_Integer_20180707.py) [67. Add Binary Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/67_Add_Binary_20180707.py) [189. Rotate Array Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/198_Rotate_Array_20180707.py) 
 - 2018-7-8 [191. Number of 1 Bits Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/191_Number_of_1_Bits_20180708.py)  [160. Intersection of Two Linked Lists Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/160_Intersection_of_Two_Linked_Lists_20180708.py) [169. Majority Element Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/169_Majority_Element_20180708.py) [151. Reverse Words in a String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/151_Reverse_Words_in_a_String_20180708.py)
 - 2018-7-14 [187. Repeated DNA Sequences Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/187_Repeated_DNA_Sequences_20180714.py) 
+- **later solutions are updated just under the problems**
 
 
 ## Group Members 学习小组成员
@@ -324,3 +331,4 @@ https://leetcode.com/problems/frog-jump/description/
 - 五、病假制度：每月有3天假期（请假者不收取会费也不参与红包分发），超过3天则每天上交10块会费。
 - 六、押金规则：每天中午12点之前，会长会返还昨日押金，会员在领取后顺便上交今日押金，最晚不超过中午12点。已经上交押金后，不能再申请请假。
 - 七、退费会用：100块（均分给其他未退群的人）
+            
