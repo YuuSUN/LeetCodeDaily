@@ -277,7 +277,29 @@ https://leetcode.com/problems/frog-jump/description/
 - [Reference link with explanation](https://leetcode.com/problems/count-primes/discuss/153528/Python3-99-112-ms-Explained:-The-Sieve-of-Eratosthenes-with-optimizations)
 - The Algorithm [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
-#解个数独消消暑吧
+### 【2018-08-09 -- 08-23】 DParathon
+我提议刷序号为5到300的所有Medium的Dynamic Programming题目，总共15道
+可以在这个页面
+https://leetcode.com/tag/dynamic-programming/
+查看所有的DP题，点击表格title的#可以按照难度序号进行排序
+
+#### [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+- [Manacher's algorithm](https://en.wikipedia.org/wiki/Longest_palindromic_substring)
+
+#### [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+#### [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
+#### [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
+#### [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
+#### [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
+#### [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
+#### [120. Triangle](https://leetcode.com/problems/triangle/description/)
+#### [139. Word Break](https://leetcode.com/problems/word-break/description/)
+#### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
+#### [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
+#### [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/)
+#### [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
+#### [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
+#### [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 ## My LeetCoding Solutions 我的解答
 - 2018/6/12 [394. Decode String Solution](https://github.com/vivi3nli/LeetCodeDaily/blob/master/394_Decode_String_20180612.py)
