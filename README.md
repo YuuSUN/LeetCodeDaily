@@ -285,6 +285,7 @@ https://leetcode.com/tag/dynamic-programming/
 
 #### [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [Manacher's algorithm](https://en.wikipedia.org/wiki/Longest_palindromic_substring)
+- [Python O(n^2) method with some optimization, 88ms.](https://leetcode.com/problems/longest-palindromic-substring/discuss/2925/Python-O(n2)-method-with-some-optimization-88ms.)
 
 #### [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)
 #### [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
