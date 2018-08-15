@@ -42,3 +42,20 @@ print(Solution().uniquePaths(7,3))
                 else:
                     grid[i][j] = grid[i-1][j] + grid[i][j-1]
         return grid[n-1][m-1]
+    
+    def minPathSum(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
+        m, n = len(grid[0]), len(grid)
+        mygrid = [[0] * m] * n
+        for i in range(n):
+            for j in range(m):
+                if i == 0 and j > 0:
+                    mygrid[i][j] = grid[i][j] + mygrid[i][j-1]
+                elif j == 0:
+                    mygrid[i][j] = grid[i][j] + mygrid[i-1][j]
+                else:
+                    mygrid[i][j] = grid[i][j] + min(mygrid[i-1][j],mygrid[i][j-1])
+        return mygrid[n-1][m-1]
