@@ -293,6 +293,9 @@ https://leetcode.com/tag/dynamic-programming/
 #### [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
 #### [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 #### [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
+
+- [DP Solution in 6 lines with explanation. F(i, n) = G(i-1) * G(n-i)](https://leetcode.com/problems/unique-binary-search-trees/discuss/31666/DP-Solution-in-6-lines-with-explanation.-F(i-n)-G(i-1)-*-G(n-i)) 
+
 #### [120. Triangle](https://leetcode.com/problems/triangle/description/)
 #### [139. Word Break](https://leetcode.com/problems/word-break/description/)
 #### [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
