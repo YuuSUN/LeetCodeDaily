@@ -14,27 +14,27 @@ class TreeNode:
         self.right = None
 
 class Solution:
-    def generateTrees(self, n):
-        """
-        :type n: int
-        :rtype: List[TreeNode]
-        """
-        def dfs(l,r):
-            if r<l:
-                return [None]
-            out = []
-            for m in range(l,r+1):
-                left = dfs(l,m-1)
-                right = dfs(m+1,r)
-                for lnode in left:
-                    for rnode in right:
-                        new = TreeNode(m)
-                        new.left = lnode
-                        new.right = rnode
-                        out.append(new)
-            return out
-        res = dfs(1,n)
-        return [] if res == [None] else res
+#    def generateTrees(self, n):
+#        """
+#        :type n: int
+#        :rtype: List[TreeNode]
+#        """
+#        def dfs(l,r):
+#            if r<l:
+#                return [None]
+#            out = []
+#            for m in range(l,r+1):
+#                left = dfs(l,m-1)
+#                right = dfs(m+1,r)
+#                for lnode in left:
+#                    for rnode in right:
+#                        new = TreeNode(m)
+#                        new.left = lnode
+#                        new.right = rnode
+#                        out.append(new)
+#            return out
+#        res = dfs(1,n)
+#        return [] if res == [None] else res
 
 #    def generateTrees(self, n):
 #        def dfs(l, r):
@@ -56,25 +56,31 @@ class Solution:
 #        if n == 0:
 #            return []
 #        return self.dfs(1,n)
-#        
-#    def dfs(self, l, r):
-#        """
-#        :type l, r: int
-#        :rtype: List[TreeNode]
-#        """
-#        if r < l:
-#            return []
-#        out = []
-#        for m in range(l,r+1):
-#            left = self.dfs(l,m-1)
-#            right = self.dfs(m+1,r)
-#            for lnode in left:
-#                for rnode in right:
-#                    new = TreeNode(m)
-#                    new.left = lnode
-#                    new.right = rnode
-#                    out.append(new)
-#        return out
+        
+
+    def generateTrees(self, n):
+        if n == 0:
+            return []
+        return self.dfs(1,n)
+
+    def dfs(self, l, r):
+        """
+        :type l, r: int
+        :rtype: List[TreeNode]
+        """
+        if r < l:
+            return [None]
+        out = []
+        for m in range(l,r+1):
+            left = self.dfs(l,m-1)
+            right = self.dfs(m+1,r)
+            for lnode in left:
+                for rnode in right:
+                    new = TreeNode(m)
+                    new.left = lnode
+                    new.right = rnode
+                    out.append(new)
+        return out
 
 
 
